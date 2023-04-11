@@ -1,0 +1,40 @@
+.menu-barr a {text-decoration: none; color: black; margin-right: 10px; font-size: small;}
+
+.category-drop li a {font-size: 10px;}
+.season-drop li a {font-size: 10px;}
+.size-drop li a {font-size: 10px;}
+
+.colours-drop button {font-size: 10px;}
+
+.colours-black i{ color: black;}
+
+.colours-blue i{ color: blue;}
+.colours-gray i{ color: gray;}
+.colours-green i{ color: green;}
+.colours-red i{ color: red;}
+.colours-yellow i{ color: yellow;}
+
+.brand-drop ul li {font-size: 10px;}
+
+.price-drop ul li {font-size: 10px;}
+
+.nude img {height: 180px; width: 180px;}
+
+.pics-div img { height: 120px; width: 120px;}
+
+.pics-div h2 {font-size: small;}
+.pics-div p {font-size: smaller; font-weight: 17px;}
+
+.pics2-div h2 {font-size: small;}
+.pics2-div p {font-size: smaller; font-weight: 17px;}
+.pics2-div img { height: 120px; width: 120px;}
+
+.pics3-div h2 {font-size: small;}
+.pics3-div p {font-size: smaller; font-weight: 17px;}
+.pics3-div img { height: 120px; width: 120px;}
+
+.showingp p  {font-size: small;}
+
+.longp p { font-size: 10px;}
+
+.longp h2 { font-size: 20px;}

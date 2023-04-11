@@ -1,0 +1,117 @@
+* {margin: 0;
+padding: 0;}
+
+
+a {text-decoration: none;}
+
+.promoc {text-align: center;}
+
+.wears h2 { text-align: center; margin-top: 15px;} 
+
+.menu-barr a {text-decoration: none; color: black; margin-right: 10px; font-size: small;}
+
+
+
+
+.men-wear {background-image: url(images/front-view-handsome-man-grey-jacket-posing.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+width: 400px; height: 250px;}
+
+.women-wear {background-image: url(images/full-shot-happy-woman-with-pink-outfit.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  width: 400px; height: 250px;}
+
+  .kid-wear {background-image: url(images/full-shot-kids-posing-together.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 400px; height: 250px;}
+ 
+
+    
+    .free-t h3 { font-size: 10px;}
+    .free-t p {font-weight: lighter;}
+
+    .collect {text-align: center;}
+    .collect h6 {font-weight: lighter;
+    font-size: small;}
+
+    .collect p {font-weight: lighter;}
+
+
+   
+
+
+    .bags-collection h2 { text-align: center; font-size: 15px;}
+
+    .bags-collection {background-image: url(images/front-view-woman-holding-purses.jpg);
+      background-repeat: no-repeat;
+      color: white;
+     
+       background-size: cover; 
+       padding-top: 35px;
+     }
+     .bags-collection button {color: white;}
+
+        
+      
+      .men-shirt {background-image: url(images/full-shot-man-carrying-bag.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+       padding-top: 50px;}
+
+       .men-shirt h2 {font-size: 15px;}
+
+       .women-dress {background-image: url(images/beautiful-young-blonde-holding-dress-hem-looking-down-high-quality-photo.jpg);
+        background-repeat: no-repeat;
+        padding-top: 25px;
+        
+        
+
+        background-size: cover; }
+
+        .women-dress h2 {color: white; font-size: small; padding-left: 15px;}
+
+        .women-dress button {color: white;}
+
+
+        .sweatshirts {background-image: url(images/charming-happy-professional-team-two-african-american-man-girl-smiling-broadly-selfassured-own-abili.jpg);
+          background-repeat: no-repeat;
+     
+          background-size: cover; }
+
+          .sweatshirts h2 {text-align: center; font-size: small;}
+
+          .month-wears img { width: 170px; height: 200px;}
+
+          .month-wears h2 {font-size: small;}
+          .month-wears p {font-size: small; font-weight: lighter;}
+          
+
+          .month-wears2 img { width: 170px; height: 200px;}
+
+          .month-wears2 h2 {font-size: small;}
+          .month-wears2 p {font-size: small; font-weight: lighter;}
+
+          .footie {background-image: url(images/diverse-people-with-shopping-bags.jpg); padding: 50px;
+            background-repeat: no-repeat;
+     
+            background-size: cover;}
+
+          #date-time {font-size: small;}
+
+          .buyer h2 {font-size: small;} 
+
+          .shoe-t img {height: 50px; border-color: rgb(238, 224, 224);
+          width: 50px; margin-right: 7px;}
+
+          .shoe-t p {font-size: small; font-weight: lighter;}
+          .shoe-t h2 {font-size: small;}
+          .shoe-t i {color: orange; font-size: small;}
+
+          .lorem p {font-size: smaller;}
+
+
+        
